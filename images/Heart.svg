@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="64px" height="61px" viewBox="0 0 64 61" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch Beta 3.3.2 (12041) - http://www.bohemiancoding.com/sketch -->
+    <title>Heart</title>
+    <desc>Created with Sketch Beta.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Artboard-8" sketch:type="MSArtboardGroup" transform="translate(-296.000000, -231.000000)" fill="#D8D8D8">
+            <path d="M298.787376,258.311305 C297.871183,256.917477 297.154212,255.38102 296.676964,253.742436 C296.318642,252.655964 296.113665,251.644893 296.089342,250.728669 C296.030268,250.151823 296,249.566446 296,248.974 C296,239.573409 303.620685,231.952723 313.021277,231.952723 C319.493031,231.952723 325.121197,235.564557 328,240.882451 C330.878803,235.564557 336.506969,231.952723 342.978723,231.952723 C352.379315,231.952723 360,239.573409 360,248.974 C360,249.65877 359.959564,250.334095 359.880948,250.997718 C359.21424,264.791799 328.680851,291.867617 328.680851,291.867617 C328.680851,291.867617 306.6013,272.054839 298.787376,258.311305 Z" id="Heart" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>
